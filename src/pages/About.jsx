@@ -5,7 +5,7 @@ export default function About() {
       <section className="about-hero section-surface">
         <div className="about-intro">
           <span className="eyebrow">About Veloura</span>
-          <h1>Where culinary craft meets unforgettable hospitality.</h1>
+          <h1>123 Where culinary craft meets unforgettable hospitality.</h1>
           <p>
             Veloura blends elegant design, thoughtful service, and ingredient-driven cuisine to create a dining experience you remember long after the meal.
           </p>
